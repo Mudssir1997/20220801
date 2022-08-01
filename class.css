@@ -1,0 +1,16 @@
+table{
+    border: solid 3px black;
+}
+td{
+    border: solid 1px red;
+}
+th{
+    border: solid 2px rgb(6, 6, 7);
+}
+.redgreen{
+    color: red;
+    background-color: green;
+}
+.center{
+    margin-left:550px auto;
+}
